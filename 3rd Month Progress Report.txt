@@ -1,0 +1,11 @@
+5th September 2019
+
+-Revamped camera movement (took way too long)
+-Changed player health
+-Changed health bar texture
+-Added high-score board. !!Only scores time!!
+-Changed main menu buttons
+-Fixed game-breaking bugs
+-Added player smoke particles
+-Made world background more visually appealing
+-Police cars swap to destroyed model on death

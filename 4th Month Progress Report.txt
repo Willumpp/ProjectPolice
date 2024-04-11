@@ -1,0 +1,11 @@
+7th October 2019
+
+-Changed player model
+-Changed police car model
+-Added muscle car model
+-Changed player speed
+-Added car menu
+-Added afk timer
+-Changed police car movement code (no cross or dot result used to 
+	find player)
+-Learned very, VERY basic blender

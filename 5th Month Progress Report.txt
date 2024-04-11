@@ -1,0 +1,12 @@
+5th November 2019
+
+-Released second build of game (acted upon feedback)
+	-Fog
+	-Slight movement offset
+	-Car death skin
+	-New scores (cars destroyed and distance travelled)
+-Fixed multiple staring platforms bug
+-Changed scoreboard sprite
+-Added the police truck and military truck with death skins
+-Changed extra skins to be unlockable
+-Added exit functionality

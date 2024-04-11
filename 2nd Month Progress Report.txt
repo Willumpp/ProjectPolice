@@ -1,0 +1,11 @@
+9th August 2019
+
+-Added enemies (first tier)
+-Added enemy AI
+-Added UI
+	-Health bar
+	-Main menu(half finished)
+	-Countdown timers
+	-Game over screen
+-Revamped terrain generation (utilisation of object pooling)
+-Added open ended wave system (currently only 1 wave with basic enemies)
